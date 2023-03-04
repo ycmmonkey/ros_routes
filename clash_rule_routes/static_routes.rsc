@@ -837,6 +837,7 @@
 /ip route add dst-address=44.209.84.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=44.210.64.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=44.212.176.0/21 gateway=192.168.8.66 comment=IP-CIDR_RULE
+/ip route add dst-address=44.214.144.0/20 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=44.224.0.0/16 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=44.227.178.0/24 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=44.230.0.0/16 gateway=192.168.8.66 comment=IP-CIDR_RULE
