@@ -1,38 +1,34 @@
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=51wuditu.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=d9ym.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=fxngpih.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=luxshare-ict.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=qoqkkhy.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=xiaobianli8.com type=FWD} on-error={}
-/do {/ip dns static remove [find name=16595.com]} on-error={}
-/do {/ip dns static remove [find name=21rcw.com]} on-error={}
-/do {/ip dns static remove [find name=25838yn.com]} on-error={}
-/do {/ip dns static remove [find name=59hs.com]} on-error={}
-/do {/ip dns static remove [find name=agentzh.org]} on-error={}
-/do {/ip dns static remove [find name=aikac.com]} on-error={}
-/do {/ip dns static remove [find name=aizhi.biz]} on-error={}
-/do {/ip dns static remove [find name=bbcyw.com]} on-error={}
-/do {/ip dns static remove [find name=bozhou666.com]} on-error={}
-/do {/ip dns static remove [find name=chedan5.com]} on-error={}
-/do {/ip dns static remove [find name=chuangd.com]} on-error={}
-/do {/ip dns static remove [find name=cmt178.com]} on-error={}
-/do {/ip dns static remove [find name=cnmxk.com]} on-error={}
-/do {/ip dns static remove [find name=cqyeze.com]} on-error={}
-/do {/ip dns static remove [find name=didiling.com]} on-error={}
-/do {/ip dns static remove [find name=fengjunzi.com]} on-error={}
-/do {/ip dns static remove [find name=fengqu.com]} on-error={}
-/do {/ip dns static remove [find name=hnsjxcl.com]} on-error={}
-/do {/ip dns static remove [find name=jnliyu.com]} on-error={}
-/do {/ip dns static remove [find name=laryoo.com]} on-error={}
-/do {/ip dns static remove [find name=mini5cn-1.opera-mini.net]} on-error={}
-/do {/ip dns static remove [find name=mini5cn.opera-mini.net]} on-error={}
-/do {/ip dns static remove [find name=openresty.com]} on-error={}
-/do {/ip dns static remove [find name=openresty.org]} on-error={}
-/do {/ip dns static remove [find name=qdcent.com]} on-error={}
-/do {/ip dns static remove [find name=qianmh.com]} on-error={}
-/do {/ip dns static remove [find name=vpsdawanjia.com]} on-error={}
-/do {/ip dns static remove [find name=wanhedoors.com]} on-error={}
-/do {/ip dns static remove [find name=wuhantianrun.com]} on-error={}
-/do {/ip dns static remove [find name=xxmh460.com]} on-error={}
-/do {/ip dns static remove [find name=yyhomer.com]} on-error={}
-/do {/ip dns static remove [find name=zxlmx.com]} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=1024.mx type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=17lele.net type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=96jia.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=akjianding.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=buyu1314.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=doorzo.app type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=hdsx83hb.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=itdai.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=mashiro.me type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=northsoar.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=srwlyx.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=szwtsd.com type=FWD} on-error={}
+/do {/ip dns static remove [find name=1024dmg.com]} on-error={}
+/do {/ip dns static remove [find name=51xbl.com]} on-error={}
+/do {/ip dns static remove [find name=6mxs.com]} on-error={}
+/do {/ip dns static remove [find name=80note.com]} on-error={}
+/do {/ip dns static remove [find name=auly.com]} on-error={}
+/do {/ip dns static remove [find name=cddo8.com]} on-error={}
+/do {/ip dns static remove [find name=cgfdgre.net]} on-error={}
+/do {/ip dns static remove [find name=ebook.name]} on-error={}
+/do {/ip dns static remove [find name=fmfans.net]} on-error={}
+/do {/ip dns static remove [find name=fumanyou.cc]} on-error={}
+/do {/ip dns static remove [find name=iskytree.net]} on-error={}
+/do {/ip dns static remove [find name=jiuguanfm.com]} on-error={}
+/do {/ip dns static remove [find name=lvyinglaw.com]} on-error={}
+/do {/ip dns static remove [find name=mtunique.com]} on-error={}
+/do {/ip dns static remove [find name=pansj.cc]} on-error={}
+/do {/ip dns static remove [find name=qqm98.com]} on-error={}
+/do {/ip dns static remove [find name=quqiaoqiao.com]} on-error={}
+/do {/ip dns static remove [find name=sanshengcao.com]} on-error={}
+/do {/ip dns static remove [find name=shuke8.com]} on-error={}
+/do {/ip dns static remove [find name=wonggang.com]} on-error={}
+/do {/ip dns static remove [find name=wotobang.com]} on-error={}
+/do {/ip dns static remove [find name=zstzs.com]} on-error={}
