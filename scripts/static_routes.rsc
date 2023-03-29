@@ -314,6 +314,7 @@
 /ip route add dst-address=16.50.67.0/25 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=16.50.67.128/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=16.50.69.192/27 gateway=192.168.8.66 comment=IP-CIDR_RULE
+/ip route add dst-address=16.62.188.224/28 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=16.62.54.0/25 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=16.62.56.224/27 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=16.62.7.192/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
