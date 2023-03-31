@@ -321,6 +321,7 @@
 /ip route add dst-address=160.1.128.0/24 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=176.34.159.192/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=177.71.207.128/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
+/ip route add dst-address=18.100.209.192/28 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=18.100.64.128/25 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=18.100.65.0/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=18.102.2.0/23 gateway=192.168.8.66 comment=IP-CIDR_RULE
@@ -442,6 +443,7 @@
 /ip route add dst-address=18.60.64.192/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=18.60.68.0/25 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=18.60.78.192/27 gateway=192.168.8.66 comment=IP-CIDR_RULE
+/ip route add dst-address=18.60.78.240/28 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=185.2.220.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=185.9.188.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=192.173.64.0/18 gateway=192.168.8.66 comment=IP-CIDR_RULE
