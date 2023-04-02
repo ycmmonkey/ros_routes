@@ -1,215 +1,1099 @@
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=100024.xyz type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=1kyx.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=3unshine.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=cancer361.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=d1999.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=digitocero.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=dongcheng1.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=dplayerjsvideo.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=gokaigai.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=kiloai.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=lnsyrjwz.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=lxyllawfirm.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=okaybio.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=palmfungames.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=plexpt.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=wanfangche.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=wegameapi.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=xiangruizulin.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=xiaotud.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=yjlink.cc type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=youfangou.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=youyigame.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_sub forward-to=223.5.5.5 match-subdomain=yes name=zhengyouyoule.com type=FWD} on-error={}
-/do {/ip dns static remove [find name=lopopoo.com]} on-error={}
-/do {/ip dns static remove [find name=tapechat.net]} on-error={}
-/do {/ip dns static remove [find name=toktok-mall.com]} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=0582880609.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=05f568544e.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=10skhdbfjsf10.monster type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=10skjdbfkjs10.monster type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=110938bbb2.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=110d6dc54b.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=22downl0ad22x.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=22e991e711.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=22filexstarted22.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=6651tp.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=9f62b6f6bf.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=abbeyoverdue.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=abolid.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=absolvehostkilled.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=academyblocked.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ad.owlair.net type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=adjuabwmsrlxhr.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=adkfqujckkaskn.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=admavvex.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=adsroller.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=adventureurgently.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=affusekantars.uno type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=agalitecrashed.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ageteexomis.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=aggregationmulecontribution.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=agloogly.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=alargeredrubygsw.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=aljyiqva.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=allfb8dremsiw09oiabhboolsebt29jhe3setn.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=allfreecounter.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=allhottoss.cam type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=allkohuwpqlomad.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=amedeosilvery.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=analytics.karakuri.ai type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=anguishlonesome.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=aniqfwz.cc type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=announcingfeast.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=anonymouswrangle.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=arrearsexplicit.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=arrivecounsel.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=asa2.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ascijingu.space type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=asleepplatforms.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=assithdisseat.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=atcoordinate.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=atdmaincode.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=autopwn.site type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=avariansambos.guru type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=awestruckbranch.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=b5903af9fd.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=backyardwarlock.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=baidunnd.top type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=bdnvklavbklabl.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=begunwomanwhiskey.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=beknittykhana.life type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=belongadrenaline.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=bikehowfaded.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=bilcertificat.se type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=binoticprotea.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=birthdayforester.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=bkpndkowbo.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=boroniasunback.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=brazeratarheel.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=caviera-sverige.shop type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=cdn-redirector.glopal.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=chassescoothay.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=chromessolacer.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=compasspenitenthollow.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=competencecondolejug.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=compileformality.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=complexionmoderatelysomething.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=connectionsenvisagehoarfrost.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=consciousslice.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=consisteddimensionprofessionally.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=consistfiringsuction.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=couthieisobath.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=cryonickru.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=cuisineomnipresentinfinite.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=cukdvsmmvauef.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=culettuveitic.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=cupboardsarcasticdiabete.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=d2oxs0429n9gfd.cloudfront.net type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=digitaliseringsinitiativet.se type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=dinbilgaranti.se type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=dortoursever.digital type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=electranowel.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=eoqtyyp.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=epigeicnarthex.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=expensedebeak.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=fainziphius.guru type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=fernsnerves.uno type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=fibulascaesar.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=forgeryweave.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=fraagesport.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ftnthzv.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=fvpmzvdv.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=gmiwcarhor.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=guide-antivirus.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=haphazardbleeding.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=happeningdeliverancenorth.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=happy-davinci-53144f.netlify.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=hapticswasher.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=harassinglateral.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=hardwaretakeoutintimidate.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=hartalshier.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=hesthergeyan.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=hoddinsmused.uno type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=jalouseshawano.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=januahotdogs.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=jiaopei.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=jstuwnrkdhkow.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leadershipinadequate.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=learningproportion.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leaveundo.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=lebbhcdr.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=lebfqvuh.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ledconsideu.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leechiza.net type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leechpremium.link type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leegaroo.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leewayjazzist.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leftiesseem.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=leisureinhibitdepartment.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=liquorsswouned.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=lisjxlixmsef.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=literacysufficientlymicroscope.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=literallyfocusedparasol.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=liuyun.name type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=lopqrx.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=metumpscageful.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=naivescorries.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=nnbivwzl.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=nohgdefvwmbifld.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obiwhkidcfsqxb.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=objectionsdomesticatednagging.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=objective-wright-961fed.netlify.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=objectlesscowerfuzzy.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=objkfdrhrw.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obnoxiouspatrolassault.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obpihwmnb.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obqdefya.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obqiiotuttmhfu.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obscenityimplacable.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=obstanceder.pro type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=odhebadolfnqgroaudbhjybtadfrurf.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=omervagant.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ooltutoo.net type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=orricesoxhlet.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=otween.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=oyxp.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=panduraoestrum.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=preideanested.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=pyritescressy.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=redriesoxyaena.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=rlmcegsrhuspsq.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=rockeringformsweden.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=rpofsweden.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=s1.hanlinzhijia.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=sanhitaamerce.uno type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=saulmy.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=shindyprayhrs.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=storelog.kode.co.kr type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=telemetry.transcend.io type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=tetryllinkage.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=thechargenews.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=thegoodcaster.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=theheartbiddotnet.monster type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=toppmarkensverige.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=unreasonablesearchingconscious.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=unrviaefkhfttj.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=unsackhohokam.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=unshinykerite.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=untapedbernoo.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=unusuallynonfictionconsumption.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=unvenomtoxoids.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=upleaptnavally.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=valvalnumbest.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=victoriousagency.pro type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=vingartistictaste.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=winningdotaltar.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=workingflense.website type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=xiuwaiyyds.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=yawpingdepaint.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=yufeng8.tech type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=zupee.cim type=NXDOMAIN} on-error={}
-/do {/ip dns static remove [find name=1.jiaopei.com]} on-error={}
-/do {/ip dns static remove [find name=ads.kinobox.cz]} on-error={}
-/do {/ip dns static remove [find name=gfcim5.gq]} on-error={}
-/do {/ip dns static remove [find name=promo.ulust.com]} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=11g1ip22h.de type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=39ef72886f.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=44jq.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=521bec59f1.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=7cnq.net type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=867df8b139.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aaaaa599.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aaaaa663.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aaaaa855.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=actyot.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aesaul.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=apqazdxirqz.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=bioces.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=bjbrsfh.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=boldboycott.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=bruark.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=caihonglife.biz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=cargotropical.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=caringdeath.pro type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=castcloudywhereby.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=clarityactressmourning.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=copesfirmans.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=cul.xunjiu.online type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=day13vh1xl0gh.cloudfront.net type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=defiancebelow.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=developmentgoat.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=developmentnewestrising.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=disturbcesti.digital type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=dukingdraon.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=eekreeng.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ejszkyhvlsej.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=endingdespond.uno type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=eqplmatlm.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=esnlynotquiteso.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=evangelrhyton.digital type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=evssafnwpgat.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=explainpompeywistful.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=faleiccxrml.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=feelingstoriesplumb.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=fillvpn.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=fluese.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=formerlyrelationshipserver.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=frail-lock.pro type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=freyrclogs.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=fvloumuvcbve.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=gloamucm.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=halidspilau.guru type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=hqwa.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=hundredproductaffections.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=icicleapplicationinvestigator.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ieamsbpzu.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ihlurin.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=improviseprofane.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jerrytom.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jgtwhrfwtb.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jmpnrh.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jvtxuvfgiien.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jzpvgldgtbpjb.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ktngywnklcxwdcs.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=kufhcyqryh.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=lgwwcnrifdurpho.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=lulavsepoxy.guru type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=lwjdefxsrithve.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=mcppsh.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=missilesurvive.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=negligible-pension.pro type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ollrzaontww.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=partpedestal.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pinremembrance.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pplferio.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=prankdishevelledhurdle.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=prevuesthurl.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=punkiecrudded.digital type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=qrybpwqjgkeilh.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=qyuimi.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=refrigeratemaimbrunette.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=renamedineffective.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=severaladjustlattice.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=sharapako.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=shimmeringconcert.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=shubasairy.life type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=soleasdaimio.website type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=spjpffcv.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=surprisingcordialtrust.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tacticmuseumbed.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tamrhybjuvnafic.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tictastesnlynot.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=u55011.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ubygsworlow.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=unblock2303.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=uzoamtee.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=victorious-shock.pro type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=vidforclips.net type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=vmwxsiaco.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=voyageschoolanymore.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=vxdgsgdsvlwz.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=wafxb.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=wap.hfoyjg.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=wfuxwegisqhe.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=whatsoeverlittle.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=whereuponcomicsraft.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=worlowedonh.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=xcowjvorno.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=xsircguacqobavh.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=xtasattazv.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=xx.shaque.vip type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ywkqmfyfgeyale.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=zizuolewgxbyvn.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=zs.rzijjeb.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static remove [find name=0024aaaa.com]} on-error={}
+/do {/ip dns static remove [find name=0110372df9.com]} on-error={}
+/do {/ip dns static remove [find name=027whht.com]} on-error={}
+/do {/ip dns static remove [find name=080644.com]} on-error={}
+/do {/ip dns static remove [find name=0xxd.com]} on-error={}
+/do {/ip dns static remove [find name=1095.mobi]} on-error={}
+/do {/ip dns static remove [find name=17265111.com]} on-error={}
+/do {/ip dns static remove [find name=17271819.com]} on-error={}
+/do {/ip dns static remove [find name=1818bobo.com]} on-error={}
+/do {/ip dns static remove [find name=19719197.com]} on-error={}
+/do {/ip dns static remove [find name=1kmb.cn]} on-error={}
+/do {/ip dns static remove [find name=2077.tech]} on-error={}
+/do {/ip dns static remove [find name=22195976.com]} on-error={}
+/do {/ip dns static remove [find name=23539355.com]} on-error={}
+/do {/ip dns static remove [find name=23696187.com]} on-error={}
+/do {/ip dns static remove [find name=23991511.com]} on-error={}
+/do {/ip dns static remove [find name=23wm.cc]} on-error={}
+/do {/ip dns static remove [find name=29299892.com]} on-error={}
+/do {/ip dns static remove [find name=29525187.com]} on-error={}
+/do {/ip dns static remove [find name=29873398.com]} on-error={}
+/do {/ip dns static remove [find name=2999.store]} on-error={}
+/do {/ip dns static remove [find name=2faf139881.com]} on-error={}
+/do {/ip dns static remove [find name=2gvuukm1lm.com]} on-error={}
+/do {/ip dns static remove [find name=32258228.com]} on-error={}
+/do {/ip dns static remove [find name=32851897.com]} on-error={}
+/do {/ip dns static remove [find name=3332218.com]} on-error={}
+/do {/ip dns static remove [find name=3332219.com]} on-error={}
+/do {/ip dns static remove [find name=3338613.com]} on-error={}
+/do {/ip dns static remove [find name=3338651.com]} on-error={}
+/do {/ip dns static remove [find name=3338655.com]} on-error={}
+/do {/ip dns static remove [find name=3338671.com]} on-error={}
+/do {/ip dns static remove [find name=3338675.com]} on-error={}
+/do {/ip dns static remove [find name=3338676.com]} on-error={}
+/do {/ip dns static remove [find name=3356534.work]} on-error={}
+/do {/ip dns static remove [find name=34283078.com]} on-error={}
+/do {/ip dns static remove [find name=469716.top]} on-error={}
+/do {/ip dns static remove [find name=4kyu.cn]} on-error={}
+/do {/ip dns static remove [find name=4sexmail.com]} on-error={}
+/do {/ip dns static remove [find name=50039tk.com]} on-error={}
+/do {/ip dns static remove [find name=518yi.com]} on-error={}
+/do {/ip dns static remove [find name=51dmn.top]} on-error={}
+/do {/ip dns static remove [find name=51foodsafe.cn]} on-error={}
+/do {/ip dns static remove [find name=51grow.club]} on-error={}
+/do {/ip dns static remove [find name=51sm.vip]} on-error={}
+/do {/ip dns static remove [find name=51yusi.xyz]} on-error={}
+/do {/ip dns static remove [find name=51yw.club]} on-error={}
+/do {/ip dns static remove [find name=550tg.com]} on-error={}
+/do {/ip dns static remove [find name=5555nt.com]} on-error={}
+/do {/ip dns static remove [find name=572k3.com]} on-error={}
+/do {/ip dns static remove [find name=5v9xm.com]} on-error={}
+/do {/ip dns static remove [find name=5xokfmru.cn]} on-error={}
+/do {/ip dns static remove [find name=670360.com]} on-error={}
+/do {/ip dns static remove [find name=6cc4f82f1b.com]} on-error={}
+/do {/ip dns static remove [find name=70lm.com]} on-error={}
+/do {/ip dns static remove [find name=74fac5d476.com]} on-error={}
+/do {/ip dns static remove [find name=7a096v.cn]} on-error={}
+/do {/ip dns static remove [find name=7dah8.com]} on-error={}
+/do {/ip dns static remove [find name=7two0.rocks]} on-error={}
+/do {/ip dns static remove [find name=8341.store]} on-error={}
+/do {/ip dns static remove [find name=8889888.vip]} on-error={}
+/do {/ip dns static remove [find name=9655128.vip]} on-error={}
+/do {/ip dns static remove [find name=ableaborah.com]} on-error={}
+/do {/ip dns static remove [find name=abruptrenewmakeover.com]} on-error={}
+/do {/ip dns static remove [find name=acaox.com]} on-error={}
+/do {/ip dns static remove [find name=actsrelent.com]} on-error={}
+/do {/ip dns static remove [find name=ad44.cc]} on-error={}
+/do {/ip dns static remove [find name=adaog.com]} on-error={}
+/do {/ip dns static remove [find name=aderstono.com]} on-error={}
+/do {/ip dns static remove [find name=admittedfaults.com]} on-error={}
+/do {/ip dns static remove [find name=adshtsobqihhyhc.com]} on-error={}
+/do {/ip dns static remove [find name=adtrue.top]} on-error={}
+/do {/ip dns static remove [find name=adv-links.com]} on-error={}
+/do {/ip dns static remove [find name=advers.info]} on-error={}
+/do {/ip dns static remove [find name=affiliationcash.com]} on-error={}
+/do {/ip dns static remove [find name=afhllkouelxkkpd.xyz]} on-error={}
+/do {/ip dns static remove [find name=againedam.com]} on-error={}
+/do {/ip dns static remove [find name=agjfjdtsbuf.top]} on-error={}
+/do {/ip dns static remove [find name=agrarianeruption.com]} on-error={}
+/do {/ip dns static remove [find name=ah58tc.com]} on-error={}
+/do {/ip dns static remove [find name=ah808.com]} on-error={}
+/do {/ip dns static remove [find name=ahwczn.cn]} on-error={}
+/do {/ip dns static remove [find name=ahyrgkfmdoxivec.top]} on-error={}
+/do {/ip dns static remove [find name=aimer.love]} on-error={}
+/do {/ip dns static remove [find name=airclewest.com]} on-error={}
+/do {/ip dns static remove [find name=ajoqysuc.xyz]} on-error={}
+/do {/ip dns static remove [find name=alisinak.com]} on-error={}
+/do {/ip dns static remove [find name=alrr.club]} on-error={}
+/do {/ip dns static remove [find name=aluationiam.com]} on-error={}
+/do {/ip dns static remove [find name=amtwcvh.cn]} on-error={}
+/do {/ip dns static remove [find name=andorapx.com]} on-error={}
+/do {/ip dns static remove [find name=aoyou2.top]} on-error={}
+/do {/ip dns static remove [find name=aoyuegc.cn]} on-error={}
+/do {/ip dns static remove [find name=appealsunken.com]} on-error={}
+/do {/ip dns static remove [find name=arecmesi.net]} on-error={}
+/do {/ip dns static remove [find name=as-farm.com]} on-error={}
+/do {/ip dns static remove [find name=assiumwor.com]} on-error={}
+/do {/ip dns static remove [find name=ationalhe.com]} on-error={}
+/do {/ip dns static remove [find name=attributora.com]} on-error={}
+/do {/ip dns static remove [find name=aukoatow.com]} on-error={}
+/do {/ip dns static remove [find name=autumnleaf.ltd]} on-error={}
+/do {/ip dns static remove [find name=auwrtou.cn]} on-error={}
+/do {/ip dns static remove [find name=auygipuee.xyz]} on-error={}
+/do {/ip dns static remove [find name=avased6.com]} on-error={}
+/do {/ip dns static remove [find name=avxiytq.cn]} on-error={}
+/do {/ip dns static remove [find name=awscloudfront.ml]} on-error={}
+/do {/ip dns static remove [find name=axuns.com]} on-error={}
+/do {/ip dns static remove [find name=aybe.me]} on-error={}
+/do {/ip dns static remove [find name=ayhjukc.cn]} on-error={}
+/do {/ip dns static remove [find name=ayunzhizuo.ltd]} on-error={}
+/do {/ip dns static remove [find name=baiduhaoba.com]} on-error={}
+/do {/ip dns static remove [find name=baiyi.site]} on-error={}
+/do {/ip dns static remove [find name=bangbangle.online]} on-error={}
+/do {/ip dns static remove [find name=bayil.cn]} on-error={}
+/do {/ip dns static remove [find name=bayno.cn]} on-error={}
+/do {/ip dns static remove [find name=bbt114.cn]} on-error={}
+/do {/ip dns static remove [find name=bbvdd.com]} on-error={}
+/do {/ip dns static remove [find name=becomingcrackingragged.com]} on-error={}
+/do {/ip dns static remove [find name=beggarlyquietlyrabble.com]} on-error={}
+/do {/ip dns static remove [find name=belvertising.be]} on-error={}
+/do {/ip dns static remove [find name=benwang.love]} on-error={}
+/do {/ip dns static remove [find name=bestcache.top]} on-error={}
+/do {/ip dns static remove [find name=bestgong.top]} on-error={}
+/do {/ip dns static remove [find name=bestssn.com]} on-error={}
+/do {/ip dns static remove [find name=bfrmye5.com]} on-error={}
+/do {/ip dns static remove [find name=bh0874.online]} on-error={}
+/do {/ip dns static remove [find name=bhxgvvk.cn]} on-error={}
+/do {/ip dns static remove [find name=bigcache.ml]} on-error={}
+/do {/ip dns static remove [find name=bincun.xyz]} on-error={}
+/do {/ip dns static remove [find name=biohailijie.cn]} on-error={}
+/do {/ip dns static remove [find name=bjcwwsc.xyz]} on-error={}
+/do {/ip dns static remove [find name=blddnwt.cn]} on-error={}
+/do {/ip dns static remove [find name=bmbaike.cn]} on-error={}
+/do {/ip dns static remove [find name=bmzdysi.cn]} on-error={}
+/do {/ip dns static remove [find name=bnux.store]} on-error={}
+/do {/ip dns static remove [find name=boleimg.com]} on-error={}
+/do {/ip dns static remove [find name=bpnhgan.cn]} on-error={}
+/do {/ip dns static remove [find name=bptxcg.xyz]} on-error={}
+/do {/ip dns static remove [find name=brall11.com]} on-error={}
+/do {/ip dns static remove [find name=brall31.com]} on-error={}
+/do {/ip dns static remove [find name=brall41.com]} on-error={}
+/do {/ip dns static remove [find name=brillspedlars.com]} on-error={}
+/do {/ip dns static remove [find name=btcbto.com]} on-error={}
+/do {/ip dns static remove [find name=bvfmdoo.cn]} on-error={}
+/do {/ip dns static remove [find name=bwsvftq.cn]} on-error={}
+/do {/ip dns static remove [find name=bytecache.ml]} on-error={}
+/do {/ip dns static remove [find name=bzyunduan.cn]} on-error={}
+/do {/ip dns static remove [find name=c0c.biz]} on-error={}
+/do {/ip dns static remove [find name=c3eeb0ed9c.com]} on-error={}
+/do {/ip dns static remove [find name=c60china.com]} on-error={}
+/do {/ip dns static remove [find name=caithamo.net]} on-error={}
+/do {/ip dns static remove [find name=caopanshou.top]} on-error={}
+/do {/ip dns static remove [find name=captivias.site]} on-error={}
+/do {/ip dns static remove [find name=ccpywewgsmcok.com]} on-error={}
+/do {/ip dns static remove [find name=cdnjsp.wang]} on-error={}
+/do {/ip dns static remove [find name=ceshi10.ink]} on-error={}
+/do {/ip dns static remove [find name=ceshi2.ink]} on-error={}
+/do {/ip dns static remove [find name=ceshi5.ink]} on-error={}
+/do {/ip dns static remove [find name=cggf.xyz]} on-error={}
+/do {/ip dns static remove [find name=cgiale.com]} on-error={}
+/do {/ip dns static remove [find name=cheatingbelievesseem.com]} on-error={}
+/do {/ip dns static remove [find name=chenaiwx.xyz]} on-error={}
+/do {/ip dns static remove [find name=chiuhua.com.cn]} on-error={}
+/do {/ip dns static remove [find name=choujiang1.top]} on-error={}
+/do {/ip dns static remove [find name=chqsw.cn]} on-error={}
+/do {/ip dns static remove [find name=chudongcaiwu.xyz]} on-error={}
+/do {/ip dns static remove [find name=chyfkf.cn]} on-error={}
+/do {/ip dns static remove [find name=chykohija.pro]} on-error={}
+/do {/ip dns static remove [find name=cipientco.com]} on-error={}
+/do {/ip dns static remove [find name=cjhbkj.cn]} on-error={}
+/do {/ip dns static remove [find name=cjxbeyh.cn]} on-error={}
+/do {/ip dns static remove [find name=cjy200107152004.ltd]} on-error={}
+/do {/ip dns static remove [find name=ckiller.tech]} on-error={}
+/do {/ip dns static remove [find name=clo6du.com]} on-error={}
+/do {/ip dns static remove [find name=cloudcdn.ml]} on-error={}
+/do {/ip dns static remove [find name=clouddream.ltd]} on-error={}
+/do {/ip dns static remove [find name=cloudroad.shop]} on-error={}
+/do {/ip dns static remove [find name=code668.com]} on-error={}
+/do {/ip dns static remove [find name=codelabbeijing.cn]} on-error={}
+/do {/ip dns static remove [find name=coexploitates.xyz]} on-error={}
+/do {/ip dns static remove [find name=com-csn.com]} on-error={}
+/do {/ip dns static remove [find name=comgnnyx.com]} on-error={}
+/do {/ip dns static remove [find name=compassionateblackthirst.com]} on-error={}
+/do {/ip dns static remove [find name=compromiseplot.com]} on-error={}
+/do {/ip dns static remove [find name=concd.cn]} on-error={}
+/do {/ip dns static remove [find name=coolguy.store]} on-error={}
+/do {/ip dns static remove [find name=councerned.com]} on-error={}
+/do {/ip dns static remove [find name=cqdjhj.cn]} on-error={}
+/do {/ip dns static remove [find name=cqshaseng.com]} on-error={}
+/do {/ip dns static remove [find name=craziesrimate.com]} on-error={}
+/do {/ip dns static remove [find name=credentialssagwoo.com]} on-error={}
+/do {/ip dns static remove [find name=crytyingcrutch.com]} on-error={}
+/do {/ip dns static remove [find name=ctlmufv.cn]} on-error={}
+/do {/ip dns static remove [find name=ctoabc.xyz]} on-error={}
+/do {/ip dns static remove [find name=ctrhfd.top]} on-error={}
+/do {/ip dns static remove [find name=cumydixy.com]} on-error={}
+/do {/ip dns static remove [find name=currentlyse.com]} on-error={}
+/do {/ip dns static remove [find name=cwhsmgs1.cn]} on-error={}
+/do {/ip dns static remove [find name=cylwwyy.xyz]} on-error={}
+/do {/ip dns static remove [find name=cyrwmgy.cn]} on-error={}
+/do {/ip dns static remove [find name=cyunbwkmglmv.com]} on-error={}
+/do {/ip dns static remove [find name=czpwm.com]} on-error={}
+/do {/ip dns static remove [find name=czwdzcm.cn]} on-error={}
+/do {/ip dns static remove [find name=d8962a.xyz]} on-error={}
+/do {/ip dns static remove [find name=dadilan2.online]} on-error={}
+/do {/ip dns static remove [find name=daipeept.net]} on-error={}
+/do {/ip dns static remove [find name=daitianyu.vip]} on-error={}
+/do {/ip dns static remove [find name=dajean.com]} on-error={}
+/do {/ip dns static remove [find name=dake.net.cn]} on-error={}
+/do {/ip dns static remove [find name=damageshaybird.com]} on-error={}
+/do {/ip dns static remove [find name=damaoli.com]} on-error={}
+/do {/ip dns static remove [find name=daogdqw.cn]} on-error={}
+/do {/ip dns static remove [find name=dataose.top]} on-error={}
+/do {/ip dns static remove [find name=dbecreativea.biz]} on-error={}
+/do {/ip dns static remove [find name=dceni.com]} on-error={}
+/do {/ip dns static remove [find name=dddwz.cn]} on-error={}
+/do {/ip dns static remove [find name=defenga.top]} on-error={}
+/do {/ip dns static remove [find name=deliciousinvestor.com]} on-error={}
+/do {/ip dns static remove [find name=dershiproleet.com]} on-error={}
+/do {/ip dns static remove [find name=deswhatlike.biz]} on-error={}
+/do {/ip dns static remove [find name=dextsz.cn]} on-error={}
+/do {/ip dns static remove [find name=df77.com]} on-error={}
+/do {/ip dns static remove [find name=dfwskw7.com]} on-error={}
+/do {/ip dns static remove [find name=dgaoz.com]} on-error={}
+/do {/ip dns static remove [find name=dhhixhjeroqljtl.xyz]} on-error={}
+/do {/ip dns static remove [find name=difficultdisintegrate.com]} on-error={}
+/do {/ip dns static remove [find name=digrice.xyz]} on-error={}
+/do {/ip dns static remove [find name=disloquerent.website]} on-error={}
+/do {/ip dns static remove [find name=dlhyfl.cn]} on-error={}
+/do {/ip dns static remove [find name=dmcqs.club]} on-error={}
+/do {/ip dns static remove [find name=dmsm.xyz]} on-error={}
+/do {/ip dns static remove [find name=dnjszp.cn]} on-error={}
+/do {/ip dns static remove [find name=dofsg.cn]} on-error={}
+/do {/ip dns static remove [find name=dogjb.com]} on-error={}
+/do {/ip dns static remove [find name=dollarhene.com]} on-error={}
+/do {/ip dns static remove [find name=doz1it.com]} on-error={}
+/do {/ip dns static remove [find name=dspxxy.com]} on-error={}
+/do {/ip dns static remove [find name=dteamwoukr.com]} on-error={}
+/do {/ip dns static remove [find name=duringsiam.com]} on-error={}
+/do {/ip dns static remove [find name=dutravisne.com]} on-error={}
+/do {/ip dns static remove [find name=duyixpy.top]} on-error={}
+/do {/ip dns static remove [find name=dylenura.xyz]} on-error={}
+/do {/ip dns static remove [find name=earpailton.com]} on-error={}
+/do {/ip dns static remove [find name=eblnzoq.cn]} on-error={}
+/do {/ip dns static remove [find name=edetlmb.cn]} on-error={}
+/do {/ip dns static remove [find name=edownloadfile.me]} on-error={}
+/do {/ip dns static remove [find name=edstrastco.com]} on-error={}
+/do {/ip dns static remove [find name=eduzzjy.com]} on-error={}
+/do {/ip dns static remove [find name=eebuwr.cn]} on-error={}
+/do {/ip dns static remove [find name=eereegly.com]} on-error={}
+/do {/ip dns static remove [find name=eiasninancu.com]} on-error={}
+/do {/ip dns static remove [find name=eiyxjls.cn]} on-error={}
+/do {/ip dns static remove [find name=ejbywbs.cn]} on-error={}
+/do {/ip dns static remove [find name=ekwibgl.cn]} on-error={}
+/do {/ip dns static remove [find name=ekxpniiv.com]} on-error={}
+/do {/ip dns static remove [find name=entmassaul.com]} on-error={}
+/do {/ip dns static remove [find name=entmatchw.top]} on-error={}
+/do {/ip dns static remove [find name=entranding.com]} on-error={}
+/do {/ip dns static remove [find name=entsiwoulu.com]} on-error={}
+/do {/ip dns static remove [find name=entsseparas.com]} on-error={}
+/do {/ip dns static remove [find name=eqj2a3bx.cn]} on-error={}
+/do {/ip dns static remove [find name=ericanteeho.com]} on-error={}
+/do {/ip dns static remove [find name=ericantpas.com]} on-error={}
+/do {/ip dns static remove [find name=eslipdd.ltd]} on-error={}
+/do {/ip dns static remove [find name=esmentbrads.com]} on-error={}
+/do {/ip dns static remove [find name=etheopportu.biz]} on-error={}
+/do {/ip dns static remove [find name=etmxjglxsthvm.xyz]} on-error={}
+/do {/ip dns static remove [find name=etoexukpre.com]} on-error={}
+/do {/ip dns static remove [find name=etracking.pro]} on-error={}
+/do {/ip dns static remove [find name=etrckeh.cn]} on-error={}
+/do {/ip dns static remove [find name=exuuksfak.com]} on-error={}
+/do {/ip dns static remove [find name=exwytd7.com]} on-error={}
+/do {/ip dns static remove [find name=eylqbeu.cn]} on-error={}
+/do {/ip dns static remove [find name=faachen.cn]} on-error={}
+/do {/ip dns static remove [find name=faithfullyfridge.com]} on-error={}
+/do {/ip dns static remove [find name=fashionabacus.com]} on-error={}
+/do {/ip dns static remove [find name=fastcache.top]} on-error={}
+/do {/ip dns static remove [find name=fcuit.com]} on-error={}
+/do {/ip dns static remove [find name=feelbad.online]} on-error={}
+/do {/ip dns static remove [find name=fengfeng.fun]} on-error={}
+/do {/ip dns static remove [find name=fertilityundergone.com]} on-error={}
+/do {/ip dns static remove [find name=fhyxakwxrwbdqcy.xyz]} on-error={}
+/do {/ip dns static remove [find name=fileqn.pw]} on-error={}
+/do {/ip dns static remove [find name=files-re-bornes.gq]} on-error={}
+/do {/ip dns static remove [find name=fishsalt.top]} on-error={}
+/do {/ip dns static remove [find name=fitchedgiveth.com]} on-error={}
+/do {/ip dns static remove [find name=fjdy.cc]} on-error={}
+/do {/ip dns static remove [find name=fjjkq.cn]} on-error={}
+/do {/ip dns static remove [find name=fjmeyer.com]} on-error={}
+/do {/ip dns static remove [find name=fjyc.pw]} on-error={}
+/do {/ip dns static remove [find name=fmzxing.pw]} on-error={}
+/do {/ip dns static remove [find name=fork.ink]} on-error={}
+/do {/ip dns static remove [find name=forrerri.com]} on-error={}
+/do {/ip dns static remove [find name=fpvdxd5.com]} on-error={}
+/do {/ip dns static remove [find name=freshintimate.com]} on-error={}
+/do {/ip dns static remove [find name=friend17.net]} on-error={}
+/do {/ip dns static remove [find name=fstaw.com]} on-error={}
+/do {/ip dns static remove [find name=ftsrksodqeri.xyz]} on-error={}
+/do {/ip dns static remove [find name=fuwche.cn]} on-error={}
+/do {/ip dns static remove [find name=fv99.com]} on-error={}
+/do {/ip dns static remove [find name=fwlgepp.cn]} on-error={}
+/do {/ip dns static remove [find name=fxpsyzy.cn]} on-error={}
+/do {/ip dns static remove [find name=fzygcof.cn]} on-error={}
+/do {/ip dns static remove [find name=garysero.xyz]} on-error={}
+/do {/ip dns static remove [find name=gaupremob.cf]} on-error={}
+/do {/ip dns static remove [find name=gdgy56.com]} on-error={}
+/do {/ip dns static remove [find name=gdxinya.com]} on-error={}
+/do {/ip dns static remove [find name=geoneduropheg.info]} on-error={}
+/do {/ip dns static remove [find name=geoparker.net]} on-error={}
+/do {/ip dns static remove [find name=getibih.cn]} on-error={}
+/do {/ip dns static remove [find name=gezkdx7.com]} on-error={}
+/do {/ip dns static remove [find name=gfnjaoswskfisep.com]} on-error={}
+/do {/ip dns static remove [find name=ggweb.net]} on-error={}
+/do {/ip dns static remove [find name=ghl8.com]} on-error={}
+/do {/ip dns static remove [find name=ghnmg.top]} on-error={}
+/do {/ip dns static remove [find name=gktrshotx.xyz]} on-error={}
+/do {/ip dns static remove [find name=globalso.biz]} on-error={}
+/do {/ip dns static remove [find name=glpca.com]} on-error={}
+/do {/ip dns static remove [find name=gnncc.cc]} on-error={}
+/do {/ip dns static remove [find name=goergleeds.com]} on-error={}
+/do {/ip dns static remove [find name=goodcache.ml]} on-error={}
+/do {/ip dns static remove [find name=goukan.xyz]} on-error={}
+/do {/ip dns static remove [find name=gouyb.mobi]} on-error={}
+/do {/ip dns static remove [find name=govchongqing.cn]} on-error={}
+/do {/ip dns static remove [find name=goverytra.com]} on-error={}
+/do {/ip dns static remove [find name=govshenzhen.cn]} on-error={}
+/do {/ip dns static remove [find name=grotesquemoviemankind.com]} on-error={}
+/do {/ip dns static remove [find name=grovebrainwashtroubles.com]} on-error={}
+/do {/ip dns static remove [find name=gscggckvmd.com]} on-error={}
+/do {/ip dns static remove [find name=gsycdb.com]} on-error={}
+/do {/ip dns static remove [find name=guangweixinxi345.cn]} on-error={}
+/do {/ip dns static remove [find name=gxqrjjcsyh.com]} on-error={}
+/do {/ip dns static remove [find name=gytychuna.com]} on-error={}
+/do {/ip dns static remove [find name=gzckdg.cn]} on-error={}
+/do {/ip dns static remove [find name=gzww.site]} on-error={}
+/do {/ip dns static remove [find name=gzwxdq.cn]} on-error={}
+/do {/ip dns static remove [find name=hainancaishui.online]} on-error={}
+/do {/ip dns static remove [find name=haishengwh123.cn]} on-error={}
+/do {/ip dns static remove [find name=haiyunimg.com]} on-error={}
+/do {/ip dns static remove [find name=hanzhixin.cn]} on-error={}
+/do {/ip dns static remove [find name=haodong.site]} on-error={}
+/do {/ip dns static remove [find name=haosdhc.cn]} on-error={}
+/do {/ip dns static remove [find name=haosesaozi.com]} on-error={}
+/do {/ip dns static remove [find name=happyhs.club]} on-error={}
+/do {/ip dns static remove [find name=hbccwlkj.top]} on-error={}
+/do {/ip dns static remove [find name=hbears.com]} on-error={}
+/do {/ip dns static remove [find name=hbys66.com]} on-error={}
+/do {/ip dns static remove [find name=hbyyzm.com]} on-error={}
+/do {/ip dns static remove [find name=hchik.com]} on-error={}
+/do {/ip dns static remove [find name=hcwljy.com]} on-error={}
+/do {/ip dns static remove [find name=hdjlkj.vip]} on-error={}
+/do {/ip dns static remove [find name=headyguin.com]} on-error={}
+/do {/ip dns static remove [find name=healmsuoguurd.eu]} on-error={}
+/do {/ip dns static remove [find name=hearfromyou.biz]} on-error={}
+/do {/ip dns static remove [find name=hebzycw.com]} on-error={}
+/do {/ip dns static remove [find name=hedmisrepu.com]} on-error={}
+/do {/ip dns static remove [find name=heguoya.work]} on-error={}
+/do {/ip dns static remove [find name=hejeyoke.xyz]} on-error={}
+/do {/ip dns static remove [find name=hemkwnz.cn]} on-error={}
+/do {/ip dns static remove [find name=herefwukou.com]} on-error={}
+/do {/ip dns static remove [find name=heybuddycn.me]} on-error={}
+/do {/ip dns static remove [find name=hfoyjg.cn]} on-error={}
+/do {/ip dns static remove [find name=hidanhao.vip]} on-error={}
+/do {/ip dns static remove [find name=hijjtiv.cn]} on-error={}
+/do {/ip dns static remove [find name=hiperdex.ml]} on-error={}
+/do {/ip dns static remove [find name=hiwfaoa.cn]} on-error={}
+/do {/ip dns static remove [find name=hjqwe.com]} on-error={}
+/do {/ip dns static remove [find name=hk50606.cn]} on-error={}
+/do {/ip dns static remove [find name=hkbmsb.fun]} on-error={}
+/do {/ip dns static remove [find name=hkqhtfbdnkxh.com]} on-error={}
+/do {/ip dns static remove [find name=hllmbnphbcpo.com]} on-error={}
+/do {/ip dns static remove [find name=hngzsb.com]} on-error={}
+/do {/ip dns static remove [find name=hntiantai.cn]} on-error={}
+/do {/ip dns static remove [find name=holiestcoseys.com]} on-error={}
+/do {/ip dns static remove [find name=hoqmcpslwkqoq.com]} on-error={}
+/do {/ip dns static remove [find name=hotbanner.site]} on-error={}
+/do {/ip dns static remove [find name=houfang8.com]} on-error={}
+/do {/ip dns static remove [find name=hpdwfd2.com]} on-error={}
+/do {/ip dns static remove [find name=hqtlw.cn]} on-error={}
+/do {/ip dns static remove [find name=hsc.ink]} on-error={}
+/do {/ip dns static remove [find name=huahuagoudc.com]} on-error={}
+/do {/ip dns static remove [find name=huapuzs.com]} on-error={}
+/do {/ip dns static remove [find name=huixiangdou.xyz]} on-error={}
+/do {/ip dns static remove [find name=hulai0323166.space]} on-error={}
+/do {/ip dns static remove [find name=hulewangsi.cn]} on-error={}
+/do {/ip dns static remove [find name=huosai.net.cn]} on-error={}
+/do {/ip dns static remove [find name=hupneyv.cn]} on-error={}
+/do {/ip dns static remove [find name=hw6.com]} on-error={}
+/do {/ip dns static remove [find name=hxiak.com]} on-error={}
+/do {/ip dns static remove [find name=hxssj.cn]} on-error={}
+/do {/ip dns static remove [find name=hycikesty.pro]} on-error={}
+/do {/ip dns static remove [find name=hzdwjc.com]} on-error={}
+/do {/ip dns static remove [find name=hzs1202.site]} on-error={}
+/do {/ip dns static remove [find name=hzuok.com]} on-error={}
+/do {/ip dns static remove [find name=ibzgcrusher.com]} on-error={}
+/do {/ip dns static remove [find name=icwxhuvssqdkc.com]} on-error={}
+/do {/ip dns static remove [find name=ifaeqvt.cn]} on-error={}
+/do {/ip dns static remove [find name=ifdcvns.cn]} on-error={}
+/do {/ip dns static remove [find name=ifil.shop]} on-error={}
+/do {/ip dns static remove [find name=ifil.store]} on-error={}
+/do {/ip dns static remove [find name=ifvpetu.cn]} on-error={}
+/do {/ip dns static remove [find name=ihqcndm.cn]} on-error={}
+/do {/ip dns static remove [find name=iingsinspiring.com]} on-error={}
+/do {/ip dns static remove [find name=ikjocef.cn]} on-error={}
+/do {/ip dns static remove [find name=iktybqjclavhnd.com]} on-error={}
+/do {/ip dns static remove [find name=ilex.asia]} on-error={}
+/do {/ip dns static remove [find name=innvitor.com]} on-error={}
+/do {/ip dns static remove [find name=intentionallylettuceponder.com]} on-error={}
+/do {/ip dns static remove [find name=interestingclear.com]} on-error={}
+/do {/ip dns static remove [find name=iqzt3ec.cn]} on-error={}
+/do {/ip dns static remove [find name=ishoutu.net]} on-error={}
+/do {/ip dns static remove [find name=isolationmildred.com]} on-error={}
+/do {/ip dns static remove [find name=istguineaelementary.com]} on-error={}
+/do {/ip dns static remove [find name=iwyuaqs.cn]} on-error={}
+/do {/ip dns static remove [find name=izuis.com]} on-error={}
+/do {/ip dns static remove [find name=j4shabt8.cn]} on-error={}
+/do {/ip dns static remove [find name=jacksonyee.club]} on-error={}
+/do {/ip dns static remove [find name=japhapee.net]} on-error={}
+/do {/ip dns static remove [find name=javjav1.buzz]} on-error={}
+/do {/ip dns static remove [find name=jaxetifu.xyz]} on-error={}
+/do {/ip dns static remove [find name=jazojucy.xyz]} on-error={}
+/do {/ip dns static remove [find name=jdgrbqal.com]} on-error={}
+/do {/ip dns static remove [find name=jfjsp.com]} on-error={}
+/do {/ip dns static remove [find name=jfsldq.top]} on-error={}
+/do {/ip dns static remove [find name=jiabo.shop]} on-error={}
+/do {/ip dns static remove [find name=jiangsm.club]} on-error={}
+/do {/ip dns static remove [find name=jiedaibao.gs]} on-error={}
+/do {/ip dns static remove [find name=jijunlongchengxinxi.cn]} on-error={}
+/do {/ip dns static remove [find name=jingyue.co]} on-error={}
+/do {/ip dns static remove [find name=jinrongwang.net]} on-error={}
+/do {/ip dns static remove [find name=jintan.fun]} on-error={}
+/do {/ip dns static remove [find name=jintengli.mobi]} on-error={}
+/do {/ip dns static remove [find name=jintengrubber.mobi]} on-error={}
+/do {/ip dns static remove [find name=jiu9.shop]} on-error={}
+/do {/ip dns static remove [find name=jl1130.com]} on-error={}
+/do {/ip dns static remove [find name=jnqiangzhi.xyz]} on-error={}
+/do {/ip dns static remove [find name=jouwaist.net]} on-error={}
+/do {/ip dns static remove [find name=jp88888887.cn]} on-error={}
+/do {/ip dns static remove [find name=jqcache.ml]} on-error={}
+/do {/ip dns static remove [find name=jsyzw132.com]} on-error={}
+/do {/ip dns static remove [find name=jtdxz.top]} on-error={}
+/do {/ip dns static remove [find name=jtrgzj9.com]} on-error={}
+/do {/ip dns static remove [find name=junwjwl.com]} on-error={}
+/do {/ip dns static remove [find name=juren0.com]} on-error={}
+/do {/ip dns static remove [find name=juxuyun.com]} on-error={}
+/do {/ip dns static remove [find name=juyiqiche.com.cn]} on-error={}
+/do {/ip dns static remove [find name=jxhcyc.com]} on-error={}
+/do {/ip dns static remove [find name=jxyy.site]} on-error={}
+/do {/ip dns static remove [find name=jystea.com]} on-error={}
+/do {/ip dns static remove [find name=jywangluo.top]} on-error={}
+/do {/ip dns static remove [find name=jzdgn.cn]} on-error={}
+/do {/ip dns static remove [find name=jzrzpump.com]} on-error={}
+/do {/ip dns static remove [find name=k11designstore.club]} on-error={}
+/do {/ip dns static remove [find name=kakam.info]} on-error={}
+/do {/ip dns static remove [find name=kanjiaqun.cn]} on-error={}
+/do {/ip dns static remove [find name=kankingwith.com]} on-error={}
+/do {/ip dns static remove [find name=kazigua.top]} on-error={}
+/do {/ip dns static remove [find name=kcgkxha.cn]} on-error={}
+/do {/ip dns static remove [find name=kgagck6.com]} on-error={}
+/do {/ip dns static remove [find name=kgq.ink]} on-error={}
+/do {/ip dns static remove [find name=khovdimina.com]} on-error={}
+/do {/ip dns static remove [find name=khuoy.com]} on-error={}
+/do {/ip dns static remove [find name=kjfoqi.cn]} on-error={}
+/do {/ip dns static remove [find name=kmrcum2.com]} on-error={}
+/do {/ip dns static remove [find name=kneadface.com]} on-error={}
+/do {/ip dns static remove [find name=koabausu.com]} on-error={}
+/do {/ip dns static remove [find name=kongssew.com]} on-error={}
+/do {/ip dns static remove [find name=kqvkvc3.com]} on-error={}
+/do {/ip dns static remove [find name=krkcryk.cn]} on-error={}
+/do {/ip dns static remove [find name=ksdqhiaythajdv.com]} on-error={}
+/do {/ip dns static remove [find name=ksxb.ltd]} on-error={}
+/do {/ip dns static remove [find name=kuaiyunidc.site]} on-error={}
+/do {/ip dns static remove [find name=kuuad.com]} on-error={}
+/do {/ip dns static remove [find name=kvhfff.top]} on-error={}
+/do {/ip dns static remove [find name=kwnq4hg2n9.com]} on-error={}
+/do {/ip dns static remove [find name=kyqcfj.com]} on-error={}
+/do {/ip dns static remove [find name=kzhtgnv.cn]} on-error={}
+/do {/ip dns static remove [find name=l1nkk.ga]} on-error={}
+/do {/ip dns static remove [find name=lajidewanyi.top]} on-error={}
+/do {/ip dns static remove [find name=lajimeiguo.top]} on-error={}
+/do {/ip dns static remove [find name=langkefaye.top]} on-error={}
+/do {/ip dns static remove [find name=lanmeiyu.work]} on-error={}
+/do {/ip dns static remove [find name=lanshiwan.cn]} on-error={}
+/do {/ip dns static remove [find name=lcmnyfk.cn]} on-error={}
+/do {/ip dns static remove [find name=lddpgn.cn]} on-error={}
+/do {/ip dns static remove [find name=learningc.website]} on-error={}
+/do {/ip dns static remove [find name=lee2code.com]} on-error={}
+/do {/ip dns static remove [find name=leeethical.com]} on-error={}
+/do {/ip dns static remove [find name=lflucky.com]} on-error={}
+/do {/ip dns static remove [find name=lfzxcp.com]} on-error={}
+/do {/ip dns static remove [find name=lgxoyjjdunlwrhp.xyz]} on-error={}
+/do {/ip dns static remove [find name=lhedgelnha.com]} on-error={}
+/do {/ip dns static remove [find name=liangdun.xyz]} on-error={}
+/do {/ip dns static remove [find name=lilastilton.com]} on-error={}
+/do {/ip dns static remove [find name=limdarwin.top]} on-error={}
+/do {/ip dns static remove [find name=liushuaib.xyz]} on-error={}
+/do {/ip dns static remove [find name=liuyangyang.cn]} on-error={}
+/do {/ip dns static remove [find name=liuziqiu.cn]} on-error={}
+/do {/ip dns static remove [find name=livehapp.com]} on-error={}
+/do {/ip dns static remove [find name=lixiaodie.com]} on-error={}
+/do {/ip dns static remove [find name=lizhuo.fun]} on-error={}
+/do {/ip dns static remove [find name=lizivaje.xyz]} on-error={}
+/do {/ip dns static remove [find name=lizuorl.cn]} on-error={}
+/do {/ip dns static remove [find name=ljmzugo.cn]} on-error={}
+/do {/ip dns static remove [find name=lmcraft.pw]} on-error={}
+/do {/ip dns static remove [find name=lojapanelmo.com]} on-error={}
+/do {/ip dns static remove [find name=lovecat.online]} on-error={}
+/do {/ip dns static remove [find name=lowvcvdt.com]} on-error={}
+/do {/ip dns static remove [find name=lptssbs.cn]} on-error={}
+/do {/ip dns static remove [find name=lqqrvip.cn]} on-error={}
+/do {/ip dns static remove [find name=lturerpartm.com]} on-error={}
+/do {/ip dns static remove [find name=luofei38.top]} on-error={}
+/do {/ip dns static remove [find name=luoshihua.club]} on-error={}
+/do {/ip dns static remove [find name=lvytzpu.cn]} on-error={}
+/do {/ip dns static remove [find name=lwlscy.com]} on-error={}
+/do {/ip dns static remove [find name=lyjz001.com]} on-error={}
+/do {/ip dns static remove [find name=mahao.xyz]} on-error={}
+/do {/ip dns static remove [find name=majiamei.fun]} on-error={}
+/do {/ip dns static remove [find name=mamtaurs.net]} on-error={}
+/do {/ip dns static remove [find name=marcianice.com]} on-error={}
+/do {/ip dns static remove [find name=maxcache.ml]} on-error={}
+/do {/ip dns static remove [find name=mayalaze.xyz]} on-error={}
+/do {/ip dns static remove [find name=mayib.xyz]} on-error={}
+/do {/ip dns static remove [find name=mayie.xyz]} on-error={}
+/do {/ip dns static remove [find name=mayif.xyz]} on-error={}
+/do {/ip dns static remove [find name=mayig.xyz]} on-error={}
+/do {/ip dns static remove [find name=mayuting0821.ltd]} on-error={}
+/do {/ip dns static remove [find name=mdjxa.com]} on-error={}
+/do {/ip dns static remove [find name=mdjxm.com]} on-error={}
+/do {/ip dns static remove [find name=mdjxz.com]} on-error={}
+/do {/ip dns static remove [find name=me511.win]} on-error={}
+/do {/ip dns static remove [find name=meetsourhig.biz]} on-error={}
+/do {/ip dns static remove [find name=meituangov.cn]} on-error={}
+/do {/ip dns static remove [find name=meproductive.com]} on-error={}
+/do {/ip dns static remove [find name=mercurymage.top]} on-error={}
+/do {/ip dns static remove [find name=meredithnice.com]} on-error={}
+/do {/ip dns static remove [find name=mhcnmfubxacind.com]} on-error={}
+/do {/ip dns static remove [find name=mhdjkx.cn]} on-error={}
+/do {/ip dns static remove [find name=miaolejieshui.cn]} on-error={}
+/do {/ip dns static remove [find name=michaelianice.com]} on-error={}
+/do {/ip dns static remove [find name=mickeysdim.com]} on-error={}
+/do {/ip dns static remove [find name=middlesswal.com]} on-error={}
+/do {/ip dns static remove [find name=mildewtali.com]} on-error={}
+/do {/ip dns static remove [find name=mingchacn.top]} on-error={}
+/do {/ip dns static remove [find name=miraclejay.work]} on-error={}
+/do {/ip dns static remove [find name=mjita.cn]} on-error={}
+/do {/ip dns static remove [find name=mjrvkv5.com]} on-error={}
+/do {/ip dns static remove [find name=mk6n4ym.cn]} on-error={}
+/do {/ip dns static remove [find name=mkscuty.cn]} on-error={}
+/do {/ip dns static remove [find name=ml44.cn]} on-error={}
+/do {/ip dns static remove [find name=mm2ah.com]} on-error={}
+/do {/ip dns static remove [find name=moatauly.net]} on-error={}
+/do {/ip dns static remove [find name=moffreelance.biz]} on-error={}
+/do {/ip dns static remove [find name=mondayunauthorized.com]} on-error={}
+/do {/ip dns static remove [find name=mostaboutm.biz]} on-error={}
+/do {/ip dns static remove [find name=motohelpr.com]} on-error={}
+/do {/ip dns static remove [find name=mouruidesign.cn]} on-error={}
+/do {/ip dns static remove [find name=mstgc.com]} on-error={}
+/do {/ip dns static remove [find name=mtwknaoxaopkvjw.com]} on-error={}
+/do {/ip dns static remove [find name=multifarewell.com]} on-error={}
+/do {/ip dns static remove [find name=muoo.xyz]} on-error={}
+/do {/ip dns static remove [find name=mxauevhape.xyz]} on-error={}
+/do {/ip dns static remove [find name=mysoftbox.ru]} on-error={}
+/do {/ip dns static remove [find name=myuosid.cn]} on-error={}
+/do {/ip dns static remove [find name=nafulltiuk.com]} on-error={}
+/do {/ip dns static remove [find name=namemek.com]} on-error={}
+/do {/ip dns static remove [find name=nanofine.cn]} on-error={}
+/do {/ip dns static remove [find name=nbhotpo.com]} on-error={}
+/do {/ip dns static remove [find name=ndandinte.com]} on-error={}
+/do {/ip dns static remove [find name=nditlookslike.biz]} on-error={}
+/do {/ip dns static remove [find name=nedukeratio.com]} on-error={}
+/do {/ip dns static remove [find name=neglectedwhip.com]} on-error={}
+/do {/ip dns static remove [find name=neihan.co]} on-error={}
+/do {/ip dns static remove [find name=neornad.cn]} on-error={}
+/do {/ip dns static remove [find name=nepalhtml.com]} on-error={}
+/do {/ip dns static remove [find name=netgreatlyavailable.com]} on-error={}
+/do {/ip dns static remove [find name=netkantu.com]} on-error={}
+/do {/ip dns static remove [find name=nianshen.xyz]} on-error={}
+/do {/ip dns static remove [find name=nidelove.club]} on-error={}
+/do {/ip dns static remove [find name=ningbojipiao.com]} on-error={}
+/do {/ip dns static remove [find name=ningxiayy.com]} on-error={}
+/do {/ip dns static remove [find name=nitytolearnan.biz]} on-error={}
+/do {/ip dns static remove [find name=niulai0323166.space]} on-error={}
+/do {/ip dns static remove [find name=njmbgc.cn]} on-error={}
+/do {/ip dns static remove [find name=njq.net]} on-error={}
+/do {/ip dns static remove [find name=njxyh66.cn]} on-error={}
+/do {/ip dns static remove [find name=nkwintenc.biz]} on-error={}
+/do {/ip dns static remove [find name=nmgch.top]} on-error={}
+/do {/ip dns static remove [find name=nongfumg.com]} on-error={}
+/do {/ip dns static remove [find name=nopolicycrea.com]} on-error={}
+/do {/ip dns static remove [find name=notionnalisent.xyz]} on-error={}
+/do {/ip dns static remove [find name=nouzhu.cn]} on-error={}
+/do {/ip dns static remove [find name=nova-files-trustics.ml]} on-error={}
+/do {/ip dns static remove [find name=npecialukiz.com]} on-error={}
+/do {/ip dns static remove [find name=nqfwx.cn]} on-error={}
+/do {/ip dns static remove [find name=nrxduw5.com]} on-error={}
+/do {/ip dns static remove [find name=nshkedu.com]} on-error={}
+/do {/ip dns static remove [find name=nsionscorm.com]} on-error={}
+/do {/ip dns static remove [find name=nstarvardsus.com]} on-error={}
+/do {/ip dns static remove [find name=nsurethatthe.biz]} on-error={}
+/do {/ip dns static remove [find name=ntxiru.com]} on-error={}
+/do {/ip dns static remove [find name=nutritionassureroast.com]} on-error={}
+/do {/ip dns static remove [find name=nversitymi.com]} on-error={}
+/do {/ip dns static remove [find name=nxdfg.xyz]} on-error={}
+/do {/ip dns static remove [find name=nxhkkm.xyz]} on-error={}
+/do {/ip dns static remove [find name=oadroass.com]} on-error={}
+/do {/ip dns static remove [find name=oastalra.net]} on-error={}
+/do {/ip dns static remove [find name=obtaintrenchhooray.com]} on-error={}
+/do {/ip dns static remove [find name=ocubafyv.xyz]} on-error={}
+/do {/ip dns static remove [find name=okfzopj.cn]} on-error={}
+/do {/ip dns static remove [find name=omervagant.com]} on-error={}
+/do {/ip dns static remove [find name=onturrical.com]} on-error={}
+/do {/ip dns static remove [find name=opymgaj.cn]} on-error={}
+/do {/ip dns static remove [find name=orkonavariet.biz]} on-error={}
+/do {/ip dns static remove [find name=otwwiuphp.com]} on-error={}
+/do {/ip dns static remove [find name=oulddothesa.biz]} on-error={}
+/do {/ip dns static remove [find name=outrodetops.com]} on-error={}
+/do {/ip dns static remove [find name=overprotectivewidth.com]} on-error={}
+/do {/ip dns static remove [find name=overyfamiliar.biz]} on-error={}
+/do {/ip dns static remove [find name=pajinse.top]} on-error={}
+/do {/ip dns static remove [find name=paletteadulatory.com]} on-error={}
+/do {/ip dns static remove [find name=pantomimethat.com]} on-error={}
+/do {/ip dns static remove [find name=paohao.com]} on-error={}
+/do {/ip dns static remove [find name=papayaburbles.com]} on-error={}
+/do {/ip dns static remove [find name=partoukfa.com]} on-error={}
+/do {/ip dns static remove [find name=pbgcsk3.com]} on-error={}
+/do {/ip dns static remove [find name=pcprgck.cn]} on-error={}
+/do {/ip dns static remove [find name=pfiparts.com]} on-error={}
+/do {/ip dns static remove [find name=physicallyfinch.com]} on-error={}
+/do {/ip dns static remove [find name=pingtaiba.asia]} on-error={}
+/do {/ip dns static remove [find name=pjuulzj.cn]} on-error={}
+/do {/ip dns static remove [find name=pk965.com]} on-error={}
+/do {/ip dns static remove [find name=pknbovwkmaejpuh.xyz]} on-error={}
+/do {/ip dns static remove [find name=plastic-wood.cn]} on-error={}
+/do {/ip dns static remove [find name=plumbingcurlproximity.com]} on-error={}
+/do {/ip dns static remove [find name=pnxs.com]} on-error={}
+/do {/ip dns static remove [find name=pokeryun.site]} on-error={}
+/do {/ip dns static remove [find name=pompouseruptionrang.com]} on-error={}
+/do {/ip dns static remove [find name=ppt100.site]} on-error={}
+/do {/ip dns static remove [find name=pqbliytredsa.com]} on-error={}
+/do {/ip dns static remove [find name=preroot.xyz]} on-error={}
+/do {/ip dns static remove [find name=primedisappointing.com]} on-error={}
+/do {/ip dns static remove [find name=productionconceitedbosom.com]} on-error={}
+/do {/ip dns static remove [find name=promo.blackcrush.com]} on-error={}
+/do {/ip dns static remove [find name=pstdzxu.cn]} on-error={}
+/do {/ip dns static remove [find name=pvhgws7.com]} on-error={}
+/do {/ip dns static remove [find name=pwjmzqx.cn]} on-error={}
+/do {/ip dns static remove [find name=pxfeiws.cn]} on-error={}
+/do {/ip dns static remove [find name=pyropenunmould.com]} on-error={}
+/do {/ip dns static remove [find name=pyrrtep.cn]} on-error={}
+/do {/ip dns static remove [find name=qbgrmsk.cn]} on-error={}
+/do {/ip dns static remove [find name=qbhdn.com]} on-error={}
+/do {/ip dns static remove [find name=qbkybab.cn]} on-error={}
+/do {/ip dns static remove [find name=qbyyvg3.com]} on-error={}
+/do {/ip dns static remove [find name=qfcdgy.cn]} on-error={}
+/do {/ip dns static remove [find name=qgbtd.com]} on-error={}
+/do {/ip dns static remove [find name=qgjapp.com]} on-error={}
+/do {/ip dns static remove [find name=qhlmb.com]} on-error={}
+/do {/ip dns static remove [find name=qiaopiguniang.com]} on-error={}
+/do {/ip dns static remove [find name=qiaoxiaomiao.com]} on-error={}
+/do {/ip dns static remove [find name=qicqn.cn]} on-error={}
+/do {/ip dns static remove [find name=qinzigenjudi.com]} on-error={}
+/do {/ip dns static remove [find name=qiqiyii.com]} on-error={}
+/do {/ip dns static remove [find name=qivsod.com]} on-error={}
+/do {/ip dns static remove [find name=qjtdvohjin.com]} on-error={}
+/do {/ip dns static remove [find name=qmpartner.vip]} on-error={}
+/do {/ip dns static remove [find name=qncphvc.cn]} on-error={}
+/do {/ip dns static remove [find name=qnrfhhlauhaaque.com]} on-error={}
+/do {/ip dns static remove [find name=qopeqi13913fjajba123nfd1344.top]} on-error={}
+/do {/ip dns static remove [find name=qrzogzy.cn]} on-error={}
+/do {/ip dns static remove [find name=qualityofeve.biz]} on-error={}
+/do {/ip dns static remove [find name=qwsad.com]} on-error={}
+/do {/ip dns static remove [find name=qyshbf.ltd]} on-error={}
+/do {/ip dns static remove [find name=qysyyg.com]} on-error={}
+/do {/ip dns static remove [find name=qzqyw.cn]} on-error={}
+/do {/ip dns static remove [find name=r3wd6.cn]} on-error={}
+/do {/ip dns static remove [find name=ranchauthorization.com]} on-error={}
+/do {/ip dns static remove [find name=rauwoafe.com]} on-error={}
+/do {/ip dns static remove [find name=rebel.ai]} on-error={}
+/do {/ip dns static remove [find name=rechaptalisent.xyz]} on-error={}
+/do {/ip dns static remove [find name=recloturames.xyz]} on-error={}
+/do {/ip dns static remove [find name=regionstakeout.com]} on-error={}
+/do {/ip dns static remove [find name=registeredsethey.com]} on-error={}
+/do {/ip dns static remove [find name=relivesovereign.com]} on-error={}
+/do {/ip dns static remove [find name=restinafullti.com]} on-error={}
+/do {/ip dns static remove [find name=restlessreduction.com]} on-error={}
+/do {/ip dns static remove [find name=resumedelayed.com]} on-error={}
+/do {/ip dns static remove [find name=resurnommions.xyz]} on-error={}
+/do {/ip dns static remove [find name=rfyqtv2.com]} on-error={}
+/do {/ip dns static remove [find name=rgjeow3.com]} on-error={}
+/do {/ip dns static remove [find name=riousstylegui.biz]} on-error={}
+/do {/ip dns static remove [find name=ripplestika.site]} on-error={}
+/do {/ip dns static remove [find name=rningserience.com]} on-error={}
+/do {/ip dns static remove [find name=rofvjko.cn]} on-error={}
+/do {/ip dns static remove [find name=rolqjpdobpb.com]} on-error={}
+/do {/ip dns static remove [find name=rotchestche.com]} on-error={}
+/do {/ip dns static remove [find name=rowemfg.com]} on-error={}
+/do {/ip dns static remove [find name=rpersonals.com]} on-error={}
+/do {/ip dns static remove [find name=rpywuerhdmxv.com]} on-error={}
+/do {/ip dns static remove [find name=rqwnzbx.cn]} on-error={}
+/do {/ip dns static remove [find name=rwjfs.com]} on-error={}
+/do {/ip dns static remove [find name=rysubmission.biz]} on-error={}
+/do {/ip dns static remove [find name=rzgvdm5.com]} on-error={}
+/do {/ip dns static remove [find name=rzijjeb.cn]} on-error={}
+/do {/ip dns static remove [find name=rzlib.net]} on-error={}
+/do {/ip dns static remove [find name=sadirectresu.com]} on-error={}
+/do {/ip dns static remove [find name=sahara.work]} on-error={}
+/do {/ip dns static remove [find name=sailorbottleaskew.com]} on-error={}
+/do {/ip dns static remove [find name=saimone.com]} on-error={}
+/do {/ip dns static remove [find name=sakuraquant.com]} on-error={}
+/do {/ip dns static remove [find name=saouknatst.com]} on-error={}
+/do {/ip dns static remove [find name=sauceillusionstruggling.com]} on-error={}
+/do {/ip dns static remove [find name=sbinx.com]} on-error={}
+/do {/ip dns static remove [find name=sbuildfor.com]} on-error={}
+/do {/ip dns static remove [find name=schlaftabletten.cn]} on-error={}
+/do {/ip dns static remove [find name=sciillr.cn]} on-error={}
+/do {/ip dns static remove [find name=scktmdv.cn]} on-error={}
+/do {/ip dns static remove [find name=seallife.club]} on-error={}
+/do {/ip dns static remove [find name=seamchristmas.com]} on-error={}
+/do {/ip dns static remove [find name=seinpounday.com]} on-error={}
+/do {/ip dns static remove [find name=servedby.yell.com]} on-error={}
+/do {/ip dns static remove [find name=shangguan.fun]} on-error={}
+/do {/ip dns static remove [find name=shanghuitianxia.cn]} on-error={}
+/do {/ip dns static remove [find name=shaque.vip]} on-error={}
+/do {/ip dns static remove [find name=shengduobao.shop]} on-error={}
+/do {/ip dns static remove [find name=shengyaxd.com]} on-error={}
+/do {/ip dns static remove [find name=shequn.online]} on-error={}
+/do {/ip dns static remove [find name=shigl.top]} on-error={}
+/do {/ip dns static remove [find name=shiguangyx.cn]} on-error={}
+/do {/ip dns static remove [find name=shilong.xyz]} on-error={}
+/do {/ip dns static remove [find name=shoudan6.press]} on-error={}
+/do {/ip dns static remove [find name=shrugglefor.com]} on-error={}
+/do {/ip dns static remove [find name=sinaimges.com]} on-error={}
+/do {/ip dns static remove [find name=singledog.fun]} on-error={}
+/do {/ip dns static remove [find name=sitiveadditio.biz]} on-error={}
+/do {/ip dns static remove [find name=sjoy7rq.cn]} on-error={}
+/do {/ip dns static remove [find name=sjpoxe6.com]} on-error={}
+/do {/ip dns static remove [find name=skillravageintrusive.com]} on-error={}
+/do {/ip dns static remove [find name=slcgngo.cn]} on-error={}
+/do {/ip dns static remove [find name=sleevedcaelum.com]} on-error={}
+/do {/ip dns static remove [find name=smhossi.cn]} on-error={}
+/do {/ip dns static remove [find name=smilk.cc]} on-error={}
+/do {/ip dns static remove [find name=snickunfairtheatres.com]} on-error={}
+/do {/ip dns static remove [find name=songcx.fun]} on-error={}
+/do {/ip dns static remove [find name=songshijiazu.cn]} on-error={}
+/do {/ip dns static remove [find name=sosrom.cn]} on-error={}
+/do {/ip dns static remove [find name=srkfhl.cn]} on-error={}
+/do {/ip dns static remove [find name=srmohcym.com]} on-error={}
+/do {/ip dns static remove [find name=ssettoourm.com]} on-error={}
+/do {/ip dns static remove [find name=ssjy.shop]} on-error={}
+/do {/ip dns static remove [find name=ssmyinteuk.com]} on-error={}
+/do {/ip dns static remove [find name=sspervicearg.com]} on-error={}
+/do {/ip dns static remove [find name=starvards.com]} on-error={}
+/do {/ip dns static remove [find name=stfyygv.cn]} on-error={}
+/do {/ip dns static remove [find name=stirprovidence.com]} on-error={}
+/do {/ip dns static remove [find name=stormreader.cn]} on-error={}
+/do {/ip dns static remove [find name=summerxzp.xyz]} on-error={}
+/do {/ip dns static remove [find name=sunglasseslollipopoperating.com]} on-error={}
+/do {/ip dns static remove [find name=suoksm.cn]} on-error={}
+/do {/ip dns static remove [find name=superintendfancystrangely.com]} on-error={}
+/do {/ip dns static remove [find name=sustainspleengunpowder.com]} on-error={}
+/do {/ip dns static remove [find name=svlzckw.cn]} on-error={}
+/do {/ip dns static remove [find name=svm6ryo.cn]} on-error={}
+/do {/ip dns static remove [find name=swlmd.com]} on-error={}
+/do {/ip dns static remove [find name=sxbexrv.cn]} on-error={}
+/do {/ip dns static remove [find name=syncommisty.com]} on-error={}
+/do {/ip dns static remove [find name=syybmy.cn]} on-error={}
+/do {/ip dns static remove [find name=szasm8.com]} on-error={}
+/do {/ip dns static remove [find name=tabwl.com]} on-error={}
+/do {/ip dns static remove [find name=tahodebe.xyz]} on-error={}
+/do {/ip dns static remove [find name=taipingyang.hk]} on-error={}
+/do {/ip dns static remove [find name=taishu.shop]} on-error={}
+/do {/ip dns static remove [find name=taiztf.cn]} on-error={}
+/do {/ip dns static remove [find name=tamgkygbb.com]} on-error={}
+/do {/ip dns static remove [find name=tangyaols.com]} on-error={}
+/do {/ip dns static remove [find name=tbaia.com]} on-error={}
+/do {/ip dns static remove [find name=tcache.ml]} on-error={}
+/do {/ip dns static remove [find name=tcatholicyclea.com]} on-error={}
+/do {/ip dns static remove [find name=tdtxkvj.cn]} on-error={}
+/do {/ip dns static remove [find name=tedmonastyd.com]} on-error={}
+/do {/ip dns static remove [find name=teqcdnk.cn]} on-error={}
+/do {/ip dns static remove [find name=terningpail.com]} on-error={}
+/do {/ip dns static remove [find name=thatitgivesm.biz]} on-error={}
+/do {/ip dns static remove [find name=thispositionw.biz]} on-error={}
+/do {/ip dns static remove [find name=thqsdkxnwcc.com]} on-error={}
+/do {/ip dns static remove [find name=tianhong.mobi]} on-error={}
+/do {/ip dns static remove [find name=tianyao.site]} on-error={}
+/do {/ip dns static remove [find name=tightslowingpredictable.com]} on-error={}
+/do {/ip dns static remove [find name=tinynedu.xyz]} on-error={}
+/do {/ip dns static remove [find name=tiwom.com]} on-error={}
+/do {/ip dns static remove [find name=tmenttoget.com]} on-error={}
+/do {/ip dns static remove [find name=tochgw.com]} on-error={}
+/do {/ip dns static remove [find name=tongdianku.com]} on-error={}
+/do {/ip dns static remove [find name=tongfanglianhe.com]} on-error={}
+/do {/ip dns static remove [find name=toonikab.com]} on-error={}
+/do {/ip dns static remove [find name=toospk.com]} on-error={}
+/do {/ip dns static remove [find name=torrida.net]} on-error={}
+/do {/ip dns static remove [find name=trafficmasterz.net]} on-error={}
+/do {/ip dns static remove [find name=trznrug.cn]} on-error={}
+/do {/ip dns static remove [find name=tsbqljox.xyz]} on-error={}
+/do {/ip dns static remove [find name=tsshruggle.com]} on-error={}
+/do {/ip dns static remove [find name=ttrailwaysint.com]} on-error={}
+/do {/ip dns static remove [find name=tumgcmu.cn]} on-error={}
+/do {/ip dns static remove [find name=tut-64.com]} on-error={}
+/do {/ip dns static remove [find name=twnb.xyz]} on-error={}
+/do {/ip dns static remove [find name=txfhfdd.cn]} on-error={}
+/do {/ip dns static remove [find name=txmsw.mobi]} on-error={}
+/do {/ip dns static remove [find name=txtxr.com]} on-error={}
+/do {/ip dns static remove [find name=tysolomonau.com]} on-error={}
+/do {/ip dns static remove [find name=tz88.store]} on-error={}
+/do {/ip dns static remove [find name=tzcfyre.cn]} on-error={}
+/do {/ip dns static remove [find name=ubjectsandie.biz]} on-error={}
+/do {/ip dns static remove [find name=udiy.club]} on-error={}
+/do {/ip dns static remove [find name=uglyp.club]} on-error={}
+/do {/ip dns static remove [find name=uiswtr3.xyz]} on-error={}
+/do {/ip dns static remove [find name=untruerbelili.com]} on-error={}
+/do {/ip dns static remove [find name=unusuallygravely.com]} on-error={}
+/do {/ip dns static remove [find name=unwarydebite.com]} on-error={}
+/do {/ip dns static remove [find name=urlat.cn]} on-error={}
+/do {/ip dns static remove [find name=urlet.cn]} on-error={}
+/do {/ip dns static remove [find name=utteredtheatresaround.com]} on-error={}
+/do {/ip dns static remove [find name=uuwn7ho.cn]} on-error={}
+/do {/ip dns static remove [find name=uxiaaip.cn]} on-error={}
+/do {/ip dns static remove [find name=vatedquali.com]} on-error={}
+/do {/ip dns static remove [find name=vbillplus.cn]} on-error={}
+/do {/ip dns static remove [find name=vdedqoi.cn]} on-error={}
+/do {/ip dns static remove [find name=venotrouble.biz]} on-error={}
+/do {/ip dns static remove [find name=vgrovkb.cn]} on-error={}
+/do {/ip dns static remove [find name=vidcdn.info]} on-error={}
+/do {/ip dns static remove [find name=vividly.site]} on-error={}
+/do {/ip dns static remove [find name=vkygseu.cn]} on-error={}
+/do {/ip dns static remove [find name=vliao365.com]} on-error={}
+/do {/ip dns static remove [find name=vohhall71.com]} on-error={}
+/do {/ip dns static remove [find name=vohhall81.com]} on-error={}
+/do {/ip dns static remove [find name=vohhall91.com]} on-error={}
+/do {/ip dns static remove [find name=voiliertram.com]} on-error={}
+/do {/ip dns static remove [find name=vrreequip.com]} on-error={}
+/do {/ip dns static remove [find name=vsmyhky.cn]} on-error={}
+/do {/ip dns static remove [find name=vsyaiejmfooba.com]} on-error={}
+/do {/ip dns static remove [find name=vugecymi.xyz]} on-error={}
+/do {/ip dns static remove [find name=vvphznw.cn]} on-error={}
+/do {/ip dns static remove [find name=vyrhxfi.cn]} on-error={}
+/do {/ip dns static remove [find name=wangchangye.xyz]} on-error={}
+/do {/ip dns static remove [find name=wangderder.xyz]} on-error={}
+/do {/ip dns static remove [find name=wangye.icu]} on-error={}
+/do {/ip dns static remove [find name=wangzj.top]} on-error={}
+/do {/ip dns static remove [find name=wcnmd.top]} on-error={}
+/do {/ip dns static remove [find name=wdbtiwn.cn]} on-error={}
+/do {/ip dns static remove [find name=weebly.shop]} on-error={}
+/do {/ip dns static remove [find name=weelgaiting.com]} on-error={}
+/do {/ip dns static remove [find name=weix.xyz]} on-error={}
+/do {/ip dns static remove [find name=wenqixiefu.cn]} on-error={}
+/do {/ip dns static remove [find name=wetips.cn]} on-error={}
+/do {/ip dns static remove [find name=wfkspcs.cn]} on-error={}
+/do {/ip dns static remove [find name=wfpersonal.site]} on-error={}
+/do {/ip dns static remove [find name=whamimepso.pro]} on-error={}
+/do {/ip dns static remove [find name=whycywhivu.pro]} on-error={}
+/do {/ip dns static remove [find name=whzz.shop]} on-error={}
+/do {/ip dns static remove [find name=winingcpi.cn]} on-error={}
+/do {/ip dns static remove [find name=wirsauco.com]} on-error={}
+/do {/ip dns static remove [find name=wivesdandyemulation.com]} on-error={}
+/do {/ip dns static remove [find name=wka8.com]} on-error={}
+/do {/ip dns static remove [find name=wljj56.com]} on-error={}
+/do {/ip dns static remove [find name=wmonthsaft.biz]} on-error={}
+/do {/ip dns static remove [find name=wmpyuyj.cn]} on-error={}
+/do {/ip dns static remove [find name=wo19.top]} on-error={}
+/do {/ip dns static remove [find name=wo1990.com]} on-error={}
+/do {/ip dns static remove [find name=wohuamanhua.com]} on-error={}
+/do {/ip dns static remove [find name=womanifef.com]} on-error={}
+/do {/ip dns static remove [find name=wotmvdc.cn]} on-error={}
+/do {/ip dns static remove [find name=wpib0jr.cn]} on-error={}
+/do {/ip dns static remove [find name=wptkoqcnewqnipd.xyz]} on-error={}
+/do {/ip dns static remove [find name=writerswhow.biz]} on-error={}
+/do {/ip dns static remove [find name=wsyqkmk.cn]} on-error={}
+/do {/ip dns static remove [find name=wty007.xyz]} on-error={}
+/do {/ip dns static remove [find name=wufel.ml]} on-error={}
+/do {/ip dns static remove [find name=wukelansm.top]} on-error={}
+/do {/ip dns static remove [find name=www-sina-cn-com.com]} on-error={}
+/do {/ip dns static remove [find name=wzl02.xyz]} on-error={}
+/do {/ip dns static remove [find name=wzl03.xyz]} on-error={}
+/do {/ip dns static remove [find name=wzl04.xyz]} on-error={}
+/do {/ip dns static remove [find name=wzl05.xyz]} on-error={}
+/do {/ip dns static remove [find name=wzsygdl.com]} on-error={}
+/do {/ip dns static remove [find name=x6z6.com]} on-error={}
+/do {/ip dns static remove [find name=xazhangshaohui.xyz]} on-error={}
+/do {/ip dns static remove [find name=xcsci.cn]} on-error={}
+/do {/ip dns static remove [find name=xdcqcyp.com]} on-error={}
+/do {/ip dns static remove [find name=xgckudv.cn]} on-error={}
+/do {/ip dns static remove [find name=xhuwypebxqlt.com]} on-error={}
+/do {/ip dns static remove [find name=xiald.com]} on-error={}
+/do {/ip dns static remove [find name=xianwei.tech]} on-error={}
+/do {/ip dns static remove [find name=xiaokenan.net]} on-error={}
+/do {/ip dns static remove [find name=xinbo-lora.cn]} on-error={}
+/do {/ip dns static remove [find name=xinghao89.com]} on-error={}
+/do {/ip dns static remove [find name=xingyou64.xyz]} on-error={}
+/do {/ip dns static remove [find name=xingyou65.xyz]} on-error={}
+/do {/ip dns static remove [find name=xinying.me]} on-error={}
+/do {/ip dns static remove [find name=xinyuanzszy.com]} on-error={}
+/do {/ip dns static remove [find name=xiulishanzhuang.com]} on-error={}
+/do {/ip dns static remove [find name=xpdyqax.cn]} on-error={}
+/do {/ip dns static remove [find name=xplnnxx.top]} on-error={}
+/do {/ip dns static remove [find name=xpygyatxvwcq.com]} on-error={}
+/do {/ip dns static remove [find name=xsjyun.cn]} on-error={}
+/do {/ip dns static remove [find name=xtianqi.com.cn]} on-error={}
+/do {/ip dns static remove [find name=xtioiqa.cn]} on-error={}
+/do {/ip dns static remove [find name=xtp01.com]} on-error={}
+/do {/ip dns static remove [find name=xuebim.top]} on-error={}
+/do {/ip dns static remove [find name=xuetao.site]} on-error={}
+/do {/ip dns static remove [find name=xuningk.xyz]} on-error={}
+/do {/ip dns static remove [find name=xunjiu.online]} on-error={}
+/do {/ip dns static remove [find name=xuxjaqp.cn]} on-error={}
+/do {/ip dns static remove [find name=xwwj.ink]} on-error={}
+/do {/ip dns static remove [find name=xylmdm.top]} on-error={}
+/do {/ip dns static remove [find name=xyonbib.cn]} on-error={}
+/do {/ip dns static remove [find name=xzl200107151017.ltd]} on-error={}
+/do {/ip dns static remove [find name=yangchunblog.club]} on-error={}
+/do {/ip dns static remove [find name=yangll.xin]} on-error={}
+/do {/ip dns static remove [find name=yangtianc.xyz]} on-error={}
+/do {/ip dns static remove [find name=yanko.cc]} on-error={}
+/do {/ip dns static remove [find name=yaoxi.shop]} on-error={}
+/do {/ip dns static remove [find name=yapusheji.com]} on-error={}
+/do {/ip dns static remove [find name=ybhypt.com]} on-error={}
+/do {/ip dns static remove [find name=ybxw.shop]} on-error={}
+/do {/ip dns static remove [find name=ycurrentjobis.biz]} on-error={}
+/do {/ip dns static remove [find name=yhkt.online]} on-error={}
+/do {/ip dns static remove [find name=yigesi.top]} on-error={}
+/do {/ip dns static remove [find name=yiniyiwo.org]} on-error={}
+/do {/ip dns static remove [find name=yinzantouzi.com]} on-error={}
+/do {/ip dns static remove [find name=yiyu-fz.cn]} on-error={}
+/do {/ip dns static remove [find name=yiyuwl.cn]} on-error={}
+/do {/ip dns static remove [find name=ymepooluqd.com]} on-error={}
+/do {/ip dns static remove [find name=ymtrqt.cn]} on-error={}
+/do {/ip dns static remove [find name=ynwsyl.com]} on-error={}
+/do {/ip dns static remove [find name=ynyyczx.cn]} on-error={}
+/do {/ip dns static remove [find name=yofdifferents.biz]} on-error={}
+/do {/ip dns static remove [find name=yongjiu7.net]} on-error={}
+/do {/ip dns static remove [find name=yongyaoxiong.cn]} on-error={}
+/do {/ip dns static remove [find name=yonoka.info]} on-error={}
+/do {/ip dns static remove [find name=yootui19999.com]} on-error={}
+/do {/ip dns static remove [find name=yoqrbof.cn]} on-error={}
+/do {/ip dns static remove [find name=youyouluming.xyz]} on-error={}
+/do {/ip dns static remove [find name=ysjkbk.com]} on-error={}
+/do {/ip dns static remove [find name=ysjwj.com]} on-error={}
+/do {/ip dns static remove [find name=ysyjg.com]} on-error={}
+/do {/ip dns static remove [find name=ytb2017.club]} on-error={}
+/do {/ip dns static remove [find name=ytlkmy.cn]} on-error={}
+/do {/ip dns static remove [find name=ytop8.com]} on-error={}
+/do {/ip dns static remove [find name=yuanma.icu]} on-error={}
+/do {/ip dns static remove [find name=yuccasswears.com]} on-error={}
+/do {/ip dns static remove [find name=yundingmap.com]} on-error={}
+/do {/ip dns static remove [find name=yxbyd.store]} on-error={}
+/do {/ip dns static remove [find name=yxhjt.com]} on-error={}
+/do {/ip dns static remove [find name=yxxwyz.com]} on-error={}
+/do {/ip dns static remove [find name=yypnxeidbvqndmb.com]} on-error={}
+/do {/ip dns static remove [find name=yyxrm.com]} on-error={}
+/do {/ip dns static remove [find name=yznwyng.cn]} on-error={}
+/do {/ip dns static remove [find name=yzygo.com]} on-error={}
+/do {/ip dns static remove [find name=zacao.wang]} on-error={}
+/do {/ip dns static remove [find name=zaixianweiyuanchuang.cn]} on-error={}
+/do {/ip dns static remove [find name=zebruisiacu.com]} on-error={}
+/do {/ip dns static remove [find name=zgmtw.mobi]} on-error={}
+/do {/ip dns static remove [find name=zgnz020.mobi]} on-error={}
+/do {/ip dns static remove [find name=zgyemy.com]} on-error={}
+/do {/ip dns static remove [find name=zgyhw.mobi]} on-error={}
+/do {/ip dns static remove [find name=zhangkeblog.site]} on-error={}
+/do {/ip dns static remove [find name=zhangmingqin.tech]} on-error={}
+/do {/ip dns static remove [find name=zhangshiyuan.com]} on-error={}
+/do {/ip dns static remove [find name=zhanjiangletian.com]} on-error={}
+/do {/ip dns static remove [find name=zhengxiaoliu.top]} on-error={}
+/do {/ip dns static remove [find name=zhide-edu.cn]} on-error={}
+/do {/ip dns static remove [find name=zhixiuchang.com]} on-error={}
+/do {/ip dns static remove [find name=zhuanquxian.com]} on-error={}
+/do {/ip dns static remove [find name=zhushihuahan.com]} on-error={}
+/do {/ip dns static remove [find name=zimeijk.cn]} on-error={}
+/do {/ip dns static remove [find name=zjlfqf.com]} on-error={}
+/do {/ip dns static remove [find name=zlfgedpuxrbpgm.com]} on-error={}
+/do {/ip dns static remove [find name=zli.wang]} on-error={}
+/do {/ip dns static remove [find name=zmkj.club]} on-error={}
+/do {/ip dns static remove [find name=zolrauls.net]} on-error={}
+/do {/ip dns static remove [find name=zovgdpj.cn]} on-error={}
+/do {/ip dns static remove [find name=zoxetijy.xyz]} on-error={}
+/do {/ip dns static remove [find name=ztech.gq]} on-error={}
+/do {/ip dns static remove [find name=ztwf8lr.cn]} on-error={}
+/do {/ip dns static remove [find name=zuolgc.cn]} on-error={}
+/do {/ip dns static remove [find name=zuopp.com]} on-error={}
+/do {/ip dns static remove [find name=zwmkfoo.cn]} on-error={}
+/do {/ip dns static remove [find name=zyyz.pro]} on-error={}
+/do {/ip dns static remove [find name=zzxxli.club]} on-error={}
+/do {/ip dns static remove [find name=zzycj.com]} on-error={}
+/do {/ip dns static remove [find name=zzyl.mobi]} on-error={}
+/do {/ip dns static remove [find name=zzyytt.top]} on-error={}
