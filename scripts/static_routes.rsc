@@ -1013,7 +1013,6 @@
 /ip route add dst-address=99.80.34.48/28 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=99.80.34.64/26 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=99.80.88.0/25 gateway=192.168.8.66 comment=IP-CIDR_RULE
-/ip route add dst-address=104.244.42.0/21 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=192.133.76.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=199.16.156.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
 /ip route add dst-address=199.59.148.0/22 gateway=192.168.8.66 comment=IP-CIDR_RULE
