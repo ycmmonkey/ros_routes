@@ -116,8 +116,6 @@
 /do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=recaptcha.net type=FWD} on-error={}
 /do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.bdn.dev type=FWD} on-error={}
 /do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.c.chat.google.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.c.docs.google.com type=FWD} on-error={}
-/do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.c.drive.google.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.c.mail.google.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.c.pack.google.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_google forward-to=223.5.5.5 name=redirector.c.play.google.com type=FWD} on-error={}
