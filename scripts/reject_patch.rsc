@@ -1,83 +1,168 @@
-/do {/ip dns static add comment=reject match-subdomain=yes name=1380535010.rsc.cdn77.org type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=1454623486.rsc.cdn77.org type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=1698632923.rsc.cdn77.org type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=1l-hit.vkplay.ru type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=1l-view.my.games type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=54ha.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=a317654204.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=a44c39fc52.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=accid.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=agweaaf.net type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=beyourxfriend.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=bmzmeugzar.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=caozhixiong.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=cdn.sinam.top type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=code.r5hsid.ru type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=concerntypisthumility.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=dcnytdpke.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=eepoawhe.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=faotfobjefeaef.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=fcqqbrfucuf.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=hontont.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=huishengqihang.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=jirtesee.net type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=jquerydns.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=jwandla.top type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=linkads.me type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=log.nexon.io type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=log.ngsm.nexon.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=lorenop.icu type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=m5.66077.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=majunguo.cn type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=metrics.onewegg.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ncyksuw.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=nwandlc.top type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=onwekdebd.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=oshatratkvc.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=pdhhlhqxg.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=peacto.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=pohlbe.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ppjttn.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=pulseadnetwork.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=receiver.habby.mobi type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=rollobscurewoke.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=rtqkaxnpnfqwim.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=sledimitationsegment.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=sonsbrunette.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=stat.gc.my.games type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=twbqqq.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=tygeygrvvpjpcbr.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=ugalia.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=urljhgwmlq.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=vidshouse.space type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=vuvoti.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=wjtij.top type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=xiangfenyabu.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=xsbdj6.com type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=xvrvgod.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static add comment=reject match-subdomain=yes name=zvfaxh.xyz type=NXDOMAIN} on-error={}
-/do {/ip dns static remove [find name=analytics.inform.com]} on-error={}
-/do {/ip dns static remove [find name=ccpa.psg.nexstardigital.net]} on-error={}
-/do {/ip dns static remove [find name=counter.star.lg.ua]} on-error={}
-/do {/ip dns static remove [find name=data.alexa.com]} on-error={}
-/do {/ip dns static remove [find name=dnab.info]} on-error={}
-/do {/ip dns static remove [find name=encoderfarmstatsnew.servicebus.windows.net]} on-error={}
-/do {/ip dns static remove [find name=fpaxu.net]} on-error={}
-/do {/ip dns static remove [find name=heyhelga.net]} on-error={}
-/do {/ip dns static remove [find name=logging.cmp-resources.link]} on-error={}
-/do {/ip dns static remove [find name=metrics.readme.io]} on-error={}
-/do {/ip dns static remove [find name=mgtv-bbqn.oss-cn-beijing.aliyuncs.com]} on-error={}
-/do {/ip dns static remove [find name=ping-dot-acp-magento.appspot.com]} on-error={}
-/do {/ip dns static remove [find name=prd-collector-auth.playbuzz.com]} on-error={}
-/do {/ip dns static remove [find name=pushex.io]} on-error={}
-/do {/ip dns static remove [find name=response.pure360.com]} on-error={}
-/do {/ip dns static remove [find name=rum.nccgroup-webperf.com]} on-error={}
-/do {/ip dns static remove [find name=sessions.exchange]} on-error={}
-/do {/ip dns static remove [find name=statsd.zmags.com]} on-error={}
-/do {/ip dns static remove [find name=track.wayin.com]} on-error={}
-/do {/ip dns static remove [find name=tracker.data-vp.com]} on-error={}
-/do {/ip dns static remove [find name=tracking.customerly.io]} on-error={}
-/do {/ip dns static remove [find name=tracking.legacyoffers.com]} on-error={}
-/do {/ip dns static remove [find name=tracking.rightmessage.com]} on-error={}
-/do {/ip dns static remove [find name=viraltrackings.com]} on-error={}
-/do {/ip dns static remove [find name=vmstats.varrando.com]} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=10kshbdhjf10.monster type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=6h1cz.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=6sjhdbjfs66.monster type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=79c4215c89.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=7jhvshjdfsd7.monster type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=8499583.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ad.juksy.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=adclient-uol.lp.uol.com.br type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ads.tvb.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=adserver.icimedias.ca type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=adv.r7.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aefaldypulldoo.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aldeaamputee.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=alecupknuffe.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=alodialreciter.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=anglingflyting.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=antiquariangerm.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aojuoaevugad.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=arbtrnskid.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=aricianvrocht.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=askartbud.club type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=baglikeurging.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=belikeabreed.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=besheardefiler.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=biniprobit.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=bjtel.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=bockd.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=brainsland.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=brosemridang.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=bsgeneral.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=buggerygruffed.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=cabioredtop.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=carapusgyal.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=caussr.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=chastehandkerchiefclassified.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=chinchasteepen.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=chintsair.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=coggingilya.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=compassionatecheek.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=compelgraduation.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=couplestupidity.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=crucianbasyl.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=d183xvcith22ty.cloudfront.net type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=daphnidepoch.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=dargtabet.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ddjagedfbifdfejagaca.world type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=debutedhogward.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=dengelmeg.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=deticknippier.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=diritymirkish.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=dlmonitize.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=donnotbipeds.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=doodabtankage.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=dozard.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=dumplingclubhousecompliments.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=e-cougar.fr type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ebnlsigphtumyyd.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=enfdfhnnadodjcm.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ergatesgurjun.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=fdytdc.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=feltermopish.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=finishedvistaquickly.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=freewaynetlike.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=genystopiary.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=germanyretorteddonate.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=gerusiatootsie.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=gfntlmuhfao.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=gimwcpketr.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=grusungiddy.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=hexerishilus.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=hfhytx.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=himdipsad.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=humgrww.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=huwuftie.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=hystrixcreped.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jarringerns.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jerkindeducer.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=jiffspogonia.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=kakakakaka.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=kdpic.pchome.com.tw type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=kelteruncos.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=knawelgrx.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=kryjqq.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=kz.cateredjapish.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=leerilypimelea.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=loathynay.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=lunyfallace.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=lurdoocu.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=luuss.cn type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=maringpolit.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=micerunversual.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=minehighs.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=minunetclose.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=mooleyshatful.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=myrrhicfoeman.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=mywedding-beacon.team-rec.jp type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=noahparroty.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=nouveaulain.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=oakenboubous.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=oakssterile.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=occlusemenald.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=okraenrolls.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=one.fsylr.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=osjilijp.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pactionpolab.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pangoha.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=patinesgaulin.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pedagogsecreta.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=peltingcatwood.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=penialpierage.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=perusoul.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pestequitch.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=phohagyli.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pimplesuomi.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=pollymentors.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=psfgobbet.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=purveystiralee.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=qange.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=rapaneaphoma.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=rebakeassets.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=refnippod.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=remipedembosk.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=republichuntprimary.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=retiremely.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=rubbersmyoxus.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=s.mangalivre.net type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=scudspulsedrail.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=shikarshexace.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=shockerascetic.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=showjihadspink.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=singmwn51g.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=sippingsunned.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=slartwomans.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=soimportan.club type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=spleniacusec.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=sponsorshipanotheredaciousedacious.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=sullensregimes.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=svelterterton.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=t.rentcafe.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tacananbouffon.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tallowstwangle.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tassagohecatic.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tautenstapetta.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tediousdetective.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tehseelareolas.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=theheartbiddotnetssp2022.monster type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tomentaabac.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tracking.dealeranalytics.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=trailssuecism.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=trifaouthits.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=tunuhap.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=turacousequent.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=twiggycosmoid.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=two.fsylr.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=unbuiltsabana.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=uperizeunoiled.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=upwithpansit.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=uzouptel.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=vectisamerica.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=vvickycira.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=weddingtunequench.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=weirdbetorn.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=wimpeelt.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=woovoree.net type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=wrivedipnoi.com type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=xxpxursi.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=xzlurd.xyz type=NXDOMAIN} on-error={}
+/do {/ip dns static add comment=reject match-subdomain=yes name=ytfezzava.com type=NXDOMAIN} on-error={}
