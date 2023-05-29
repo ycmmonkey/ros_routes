@@ -75,6 +75,7 @@
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=iosapps.itunes.g.aaplimg.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=ipcdn.apple.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=iphone-ld.apple.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=iphone-ld.origin-apple.com.akadns.net type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=is1-ssl.mzstatic.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=is1.mzstatic.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=is2-ssl.mzstatic.com type=FWD} on-error={}
@@ -131,6 +132,8 @@
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=valid.origin-apple.com.akadns.net type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=weather-data.apple.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=weather-data.apple.com.akadns.net type=FWD} on-error={}
+/do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=weather-map.apple.com type=FWD} on-error={}
+/do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=weather-map2.apple.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=www.apple.com type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=www.apple.com.edgekey.net type=FWD} on-error={}
 /do {/ip dns static add comment=direct_apple forward-to=223.5.5.5 name=www.apple.com.edgekey.net.globalredir.akadns.net type=FWD} on-error={}
